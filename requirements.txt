@@ -1,6 +1,10 @@
-matplotlib
 numpy==2.2.4
 pandas==2.2.3
 scikit_learn==1.4.2
 seaborn==0.13.2
 xgboost
+tensorflow==2.16.1
+opencv_python>=4.9.0
+matplotlib==3.7.5
+tqdm==4.66.4
+seaborn
