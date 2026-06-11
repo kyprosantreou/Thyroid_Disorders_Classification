@@ -19,13 +19,14 @@ BioMedInformatics, MDPI, 2026
 https://www.mdpi.com/3915474
   
 ## 📁 Repository Structure
+```
 Thyroid_Disorders_Classification/
 │
 ├── Thyroid_Ultrasound_Classification/
 ├── Ultrasound_Nodule_Segmentation/
 ├── Hashimoto_Classification/
 └── Graves_Classification/
-
+```
 ## 🧠 Project Overview
 
 This project is divided into four main components:
