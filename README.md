@@ -2,6 +2,22 @@
 
 This repository contains machine learning and deep learning pipelines for the analysis of thyroid disorders, including ultrasound image segmentation, thyroid nodule classification, and clinical disease classification for Hashimoto’s thyroiditis and Graves’ disease.
 
+## 📚 Publication
+
+This repository is associated with the following peer-reviewed publication:
+
+**Title:**  
+“A Machine Learning and Deep Learning Approach for the Classification of Thyroid Disorders Using Multi-Source Clinical Data”
+
+**Authors:**  
+Kypros Andreou, Marios G. Krokidis, Themis P. Exarchos, Panagiotis Vlamos, Eleftherios Georgakopoulos, Costas Toufexis, Nikos L. Papaloizou.
+
+**Source:**  
+BioMedInformatics, MDPI, 2026  
+
+**Link:**  
+https://www.mdpi.com/3915474
+  
 ## 📁 Repository Structure
 Thyroid_Disorders_Classification/
 │
